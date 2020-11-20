@@ -1,0 +1,1 @@
+74e031eb-0a5f-47d8-a276-644e095de414 autoenable=true bucket=cneuromod.shinobi.derivatives.fmriprep chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.shinobi.derivatives.fmriprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1605908647.546064s
