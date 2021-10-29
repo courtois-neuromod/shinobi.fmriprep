@@ -1,4 +1,5 @@
 1f471469-d626-4a8d-9555-aff5c343a065 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139362.0/fmriprep_studyshinobi_sub02_ses005.job timestamp=1635468281.516258278s
+1f607b2e-0759-4a29-8bb7-f1807da80561 bpinsard@blg8335.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139399.0/fmriprep_studyshinobi_sub04_ses003.job timestamp=1635482960.294443271s
 2aaf0dca-ff69-435b-8518-133848db392c bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/shinobi timestamp=1635276462.235405896s
 2b651ce3-dd1f-4a16-aa68-9e1b970874e6 bpinsard@blg5817.int.ets1.calculquebec.ca:/localscratch/bpinsard.27089164.0/fmriprep_studyshinobi_sub01_ses001.job timestamp=1635435022.365721059s
 368a63cb-604f-4b9a-8352-8f43a2846565 bpinsard@blg4617.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139318.0/fmriprep_studyshinobi_sub01_ses007.job timestamp=1635466854.626567132s
@@ -6,7 +7,10 @@
 397dc3c6-d005-4d9d-bbc4-dfd08b40e541 bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139314.0/fmriprep_studyshinobi_sub01_ses005.job timestamp=1635460207.593863663s
 3c3198af-2b61-48e9-ad20-b14c190f7034 bpinsard@blg4617.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139315.0/fmriprep_studyshinobi_sub01_ses006.job timestamp=1635466844.725385642s
 4cc3adc9-71ab-463d-942b-e738998d9f1f bpinsard@blg4617.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139319.0/fmriprep_studyshinobi_sub01_ses008.job timestamp=1635466864.5686823s
+555309e0-a4a7-4278-bcbb-c2e76b6e6434 bpinsard@blg8542.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139438.0/fmriprep_studyshinobi_sub06_ses005.job timestamp=1635495338.163334639s
+5c77c223-d11d-4efa-a639-2dea9ee85ccb bpinsard@blg8338.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139404.0/fmriprep_studyshinobi_sub04_ses005.job timestamp=1635483009.729875039s
 64b7b0c9-79ca-41df-b108-682ef381b89c bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139308.0/fmriprep_studyshinobi_sub01_ses002.job timestamp=1635460238.134376078s
+6b7b3cc2-9951-40af-8fb7-1986ecb3760f bpinsard@blg8542.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139440.0/fmriprep_studyshinobi_sub06_ses006.job timestamp=1635495364.710828128s
 6d90e91a-2f8b-4c51-a451-0393f928e438 bpinsard@blg4413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139390.0/fmriprep_studyshinobi_sub02_ses015.job timestamp=1635468655.048551637s
 7bb85676-8426-45b3-90e1-e475327ae6f4 bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139310.0/fmriprep_studyshinobi_sub01_ses004.job timestamp=1635460228.713576101s
 7e27265a-dea6-4cec-9c18-e885de29c18b bpinsard@blg8245.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139410.0/fmriprep_studyshinobi_sub04_ses008.job timestamp=1635482974.029418241s
@@ -14,7 +18,9 @@
 8a4711a8-a5db-47b2-bfd4-4a3f017c31a5 bpinsard@blg5515.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139446.0/fmriprep_studyshinobi_sub06_ses012.job timestamp=1635495667.303309514s
 8da8b6b7-3563-44b5-9b4b-a5e18991edf3 bpinsard@blg4519.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139413.0/fmriprep_studyshinobi_sub04_ses009.job timestamp=1635482997.075439934s
 8e245e1d-0a31-42fb-bb88-d2993c7e4373 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139359.0/fmriprep_studyshinobi_sub02_ses002.job timestamp=1635468301.996854634s
+9441af86-81a2-4958-873e-8854ad923238 bpinsard@blg8623.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139430.0/fmriprep_studyshinobi_sub06_ses002.job timestamp=1635495303.725155516s
 9d1f7c29-d894-432a-9052-75760053fd5c bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139364.0/fmriprep_studyshinobi_sub02_ses006.job timestamp=1635468271.128058153s
+a5271252-2803-4d82-9db0-15c62f79087c bpinsard@blg5515.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139444.0/fmriprep_studyshinobi_sub06_ses010.job timestamp=1635495677.607563847s
 a7216687-d5fa-47cb-bd52-5bfb5e2e4fa6 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139352.0/fmriprep_studyshinobi_sub02_ses001.job timestamp=1635468291.676908114s
 a8922993-ee64-471a-a703-8bca083dae65 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139366.0/fmriprep_studyshinobi_sub02_ses007.job timestamp=1635468312.629417023s
 a9f7c963-f088-43f1-93a9-701af438ca99 bpinsard@blg8245.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139405.0/fmriprep_studyshinobi_sub04_ses006.job timestamp=1635482984.345514866s
@@ -24,7 +30,9 @@ c38a8fc8-c870-4c3d-a09d-3ab58fb7314c bpinsard@blg4820.int.ets1.calculquebec.ca:/
 cf391c27-56a4-4d12-9847-f363fde69c90 bpinsard@blg4420.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139331.0/fmriprep_studyshinobi_sub01_ses012.job timestamp=1635468338.793967606s
 d4632cfc-0512-4a04-9ba9-2abfdab79cc8 ria-beluga-storage timestamp=1635294421.7803784s
 e72b0096-558a-48cc-832f-997eaaa6f4af bpinsard@blg4413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139382.0/fmriprep_studyshinobi_sub02_ses013.job timestamp=1635468644.581745131s
+e997e306-4ba5-4be7-b606-ce98712a84f6 bpinsard@blg8536.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139431.0/fmriprep_studyshinobi_sub06_ses003.job timestamp=1635495316.350129057s
 eb9f5fb9-3e92-424a-a095-20e5e46b2350 bpinsard@blg4413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139379.0/fmriprep_studyshinobi_sub02_ses012.job timestamp=1635468634.600740381s
 f48fc5fe-7d32-4745-96bf-76be9a9518f6 bpinsard@blg4413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139384.0/fmriprep_studyshinobi_sub02_ses014.job timestamp=1635468665.791514565s
 f65f56f5-83fd-4d43-8ff6-8a034df4917a bpinsard@blg4317.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139371.0/fmriprep_studyshinobi_sub02_ses009.job timestamp=1635468326.522270449s
+f8f1eecd-3263-43cf-ada5-cd4c5aea5155 bpinsard@blg8623.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139424.0/fmriprep_studyshinobi_sub06_ses001.job timestamp=1635495326.247747507s
 fcb1d897-f800-4c91-822d-176520527233 bpinsard@blg7210.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139393.0/fmriprep_studyshinobi_sub04_ses001.job timestamp=1635468603.30689895s
