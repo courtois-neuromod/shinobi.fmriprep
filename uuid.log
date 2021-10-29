@@ -1,4 +1,5 @@
 1f471469-d626-4a8d-9555-aff5c343a065 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139362.0/fmriprep_studyshinobi_sub02_ses005.job timestamp=1635468281.516258278s
+1f607b2e-0759-4a29-8bb7-f1807da80561 bpinsard@blg8335.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139399.0/fmriprep_studyshinobi_sub04_ses003.job timestamp=1635482960.294443271s
 2aaf0dca-ff69-435b-8518-133848db392c bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/shinobi timestamp=1635276462.235405896s
 2b651ce3-dd1f-4a16-aa68-9e1b970874e6 bpinsard@blg5817.int.ets1.calculquebec.ca:/localscratch/bpinsard.27089164.0/fmriprep_studyshinobi_sub01_ses001.job timestamp=1635435022.365721059s
 368a63cb-604f-4b9a-8352-8f43a2846565 bpinsard@blg4617.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139318.0/fmriprep_studyshinobi_sub01_ses007.job timestamp=1635466854.626567132s
@@ -10,11 +11,14 @@
 64b7b0c9-79ca-41df-b108-682ef381b89c bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139308.0/fmriprep_studyshinobi_sub01_ses002.job timestamp=1635460238.134376078s
 6d90e91a-2f8b-4c51-a451-0393f928e438 bpinsard@blg4413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139390.0/fmriprep_studyshinobi_sub02_ses015.job timestamp=1635468655.048551637s
 7bb85676-8426-45b3-90e1-e475327ae6f4 bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139310.0/fmriprep_studyshinobi_sub01_ses004.job timestamp=1635460228.713576101s
+7e27265a-dea6-4cec-9c18-e885de29c18b bpinsard@blg8245.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139410.0/fmriprep_studyshinobi_sub04_ses008.job timestamp=1635482974.029418241s
 812e1cd5-543e-4e29-96cc-3d7d11de05fc bpinsard@blg7230.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139369.0/fmriprep_studyshinobi_sub02_ses008.job timestamp=1635468255.886742486s
+8da8b6b7-3563-44b5-9b4b-a5e18991edf3 bpinsard@blg4519.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139413.0/fmriprep_studyshinobi_sub04_ses009.job timestamp=1635482997.075439934s
 8e245e1d-0a31-42fb-bb88-d2993c7e4373 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139359.0/fmriprep_studyshinobi_sub02_ses002.job timestamp=1635468301.996854634s
 9d1f7c29-d894-432a-9052-75760053fd5c bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139364.0/fmriprep_studyshinobi_sub02_ses006.job timestamp=1635468271.128058153s
 a7216687-d5fa-47cb-bd52-5bfb5e2e4fa6 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139352.0/fmriprep_studyshinobi_sub02_ses001.job timestamp=1635468291.676908114s
 a8922993-ee64-471a-a703-8bca083dae65 bpinsard@blg6233.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139366.0/fmriprep_studyshinobi_sub02_ses007.job timestamp=1635468312.629417023s
+a9f7c963-f088-43f1-93a9-701af438ca99 bpinsard@blg8245.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139405.0/fmriprep_studyshinobi_sub04_ses006.job timestamp=1635482984.345514866s
 b08eaeb0-8768-46f6-8c8c-0c9d7efea3df bpinsard@blg6124.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139327.0/fmriprep_studyshinobi_sub01_ses010.job timestamp=1635466803.678222447s
 b6dbef1b-90c9-4eeb-af37-b939b635c378 bpinsard@blg4617.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139320.0/fmriprep_studyshinobi_sub01_ses009.job timestamp=1635466875.072912452s
 c38a8fc8-c870-4c3d-a09d-3ab58fb7314c bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139309.0/fmriprep_studyshinobi_sub01_ses003.job timestamp=1635460218.499042125s
