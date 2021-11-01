@@ -38,6 +38,6 @@ flock --verbose /project/rrg-pbellec/ria-beluga/alias/cneuromod.shinobi.fmriprep
 if [ -d sourcedata/freesurfer ] ; then
     flock --verbose /project/rrg-pbellec/ria-beluga/alias/cneuromod.shinobi.fmriprep/.datalad_lock datalad push -d sourcedata/freesurfer $LOCAL_DATASET --to origin
 fi 
-if [ -e $LOCAL_DATASET/workdir/fmriprep_wf/resource_monitor.json ] ; then cp $LOCAL_DATASET/resource_monitor.json /scratch/bpinsard/fmriprep_study-shinobi_sub-01_ses-005_resource_monitor.json ; fi 
+if [ -e $LOCAL_DATASET/workdir/fmriprep_wf/resource_monitor.json ] ; then cp $LOCAL_DATASET/workdir/fmriprep_wf/resource_monitor.json /scratch/bpinsard/fmriprep_study-shinobi_sub-01_ses-005_resource_monitor.json ; fi 
 if [ $fmriprep_exitcode -ne 0 ] ; then cp -R $LOCAL_DATASET /scratch/bpinsard/fmriprep_study-shinobi_sub-01_ses-005 ; fi 
 exit $fmriprep_exitcode 
