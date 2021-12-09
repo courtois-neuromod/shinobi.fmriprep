@@ -1,1 +1,2 @@
+c7d374ff-b37b-48c1-be74-6c496034b509 archive-id=99a5a823-59ed-4f4e-9fbd-971bb5e7d1d5 autoenable=true encryption=none externaltype=ora name=ria-narval-storage type=external url=ria+ssh://narval.computecanada.ca/project/def-pbellec/ria-narval timestamp=1639079133.227120967s
 d4632cfc-0512-4a04-9ba9-2abfdab79cc8 archive-id=99a5a823-59ed-4f4e-9fbd-971bb5e7d1d5 autoenable=true encryption=none externaltype=ora name=ria-beluga-storage type=external url=ria+file:///project/rrg-pbellec/ria-beluga timestamp=1635294421.828243965s
