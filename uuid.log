@@ -21,6 +21,7 @@
 5c77c223-d11d-4efa-a639-2dea9ee85ccb bpinsard@blg8338.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139404.0/fmriprep_studyshinobi_sub04_ses005.job timestamp=1635483009.729875039s
 61805c52-facc-4984-bdd6-e7a01a1e8c1c bpinsard@blg5515.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139445.0/fmriprep_studyshinobi_sub06_ses011.job timestamp=1635495657.233520096s
 64b7b0c9-79ca-41df-b108-682ef381b89c bpinsard@blg4820.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139308.0/fmriprep_studyshinobi_sub01_ses002.job timestamp=1635460238.134376078s
+64bb73a1-f182-4b45-85fb-3ad83e1257e0 bpinsard@elm.criugm.qc.ca:/scratch/tmp/conp_rel.processed/fmriprep/shinobi timestamp=1755711994s
 6b7b3cc2-9951-40af-8fb7-1986ecb3760f bpinsard@blg8542.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139440.0/fmriprep_studyshinobi_sub06_ses006.job timestamp=1635495364.710828128s
 6d90e91a-2f8b-4c51-a451-0393f928e438 bpinsard@blg4413.int.ets1.calculquebec.ca:/localscratch/bpinsard.27139390.0/fmriprep_studyshinobi_sub02_ses015.job timestamp=1635468655.048551637s
 713b5435-a34c-4983-aff0-f0bfbb503bcf basile@criugm0277:~/data/tests/cneuromod/shinobi/derivatives/fmriprep-20.2lts timestamp=1612111847.824547555s
